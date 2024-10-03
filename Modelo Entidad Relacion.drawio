@@ -142,7 +142,7 @@
         <mxCell id="2ZaDZYwQvwbcYQ4eUuJH-41" value="&lt;div&gt;description&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1070" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2ZaDZYwQvwbcYQ4eUuJH-42" value="price" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="2ZaDZYwQvwbcYQ4eUuJH-42" value="base_price" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1070" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2ZaDZYwQvwbcYQ4eUuJH-43" value="materials" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -438,6 +438,9 @@
               <mxPoint x="300" y="10" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="caHkFue1k4wD9SIDWnCT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2ZaDZYwQvwbcYQ4eUuJH-123" target="caHkFue1k4wD9SIDWnCT-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ZaDZYwQvwbcYQ4eUuJH-123" value="Shopping_Cart" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="120" width="100" height="40" as="geometry" />
@@ -785,6 +788,9 @@
         </mxCell>
         <mxCell id="caHkFue1k4wD9SIDWnCT-62" value="1:N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="caHkFue1k4wD9SIDWnCT-65" value="&lt;div&gt;pattern_price&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="505" y="45" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
